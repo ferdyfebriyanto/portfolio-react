@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-yantlab-react/static/css/main.c9adfb24.css",
+    "main.js": "/portfolio-yantlab-react/static/js/main.d9595fc1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-yantlab-react/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-yantlab-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/codeEditor.png": "/portfolio-yantlab-react/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/blog.png": "/portfolio-yantlab-react/static/media/blog.52102140f369ea233010.png",
+    "static/media/chatify.png": "/portfolio-yantlab-react/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/portfolio-yantlab-react/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/portfolio-yantlab-react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio-yantlab-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/suicide.png": "/portfolio-yantlab-react/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/portfolio-yantlab-react/static/media/Soumyajit_Behera-BIT_MESRA.53cbdad696442b0642b9.pdf",
+    "static/media/home-bg.jpg": "/portfolio-yantlab-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/portfolio-yantlab-react/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/portfolio-yantlab-react/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/logo2.png": "/portfolio-yantlab-react/static/media/logo2.840ad0bb9f87d61680e6.png",
+    "static/media/pre.svg": "/portfolio-yantlab-react/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio-yantlab-react/index.html",
+    "main.c9adfb24.css.map": "/portfolio-yantlab-react/static/css/main.c9adfb24.css.map",
+    "main.d9595fc1.js.map": "/portfolio-yantlab-react/static/js/main.d9595fc1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-yantlab-react/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-yantlab-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9adfb24.css",
+    "static/js/main.d9595fc1.js"
+  ]
+}
